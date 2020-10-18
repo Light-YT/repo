@@ -1,0 +1,13 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{296, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "https://raw.githubusercontent.com/Light-YT/repo/master/assets/Banners/BannerAltStore.png",
+        "title": "AltStore (Alpha)",
+        "package": "com.light.AltStore.Alpha.Jailbroken_iphoneos-arm",
+        "hideShadow": false
+    }
+  ]
+}
